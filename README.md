@@ -10,6 +10,14 @@ The repository is organized into folders, each corresponding to a specific topic
 
 ---
 
+## Table of Contents
+
+- [Projects](#projects)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
 ### Projects
 Here are some of the notable projects included in this repository:
 
