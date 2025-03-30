@@ -1,7 +1,5 @@
 # Numerical Analysis in Mechanical Engineering - MATLAB Projects
 ![MATLAB Logo](https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20250319210055406.svg)
-![Mechanical Engineering](https://img.icons8.com/?size=64&id=49431&format=png)
-
 
 This repository contains MATLAB scripts and projects developed as part of the Numerical Analysis in Mechanical Engineering course. The implementations cover various numerical methods and their applications in mechanical engineering problems.
 
@@ -17,7 +15,6 @@ This repository contains MATLAB scripts and projects developed as part of the Nu
 - [Contributing](#contributing)
 - [Technical Content](#technical-content)
 - [License](#license)
-- [Author](#author)
 - [Contact](#contact)
 
 ## Introduction
@@ -150,9 +147,6 @@ Please ensure your code is well-documented and follows the existing coding style
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
 
-## Author
-
--   Ahmed Bsher - [GitHub](https://github.com/AhmedBsher)
 
 ## Contact
 
