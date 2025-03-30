@@ -1,5 +1,5 @@
 # Numerical Analysis in Mechanical Engineering - MATLAB Projects
-![MATLAB Logo](https://www.mathworks.com/etc/designs/mathworks/img/pic-header-mathworks-logo.svg)
+![MATLAB Logo](https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20250319210055406.svg)
 
 This repository contains MATLAB scripts and projects developed as part of the Numerical Analysis in Mechanical Engineering course. The implementations cover various numerical methods and their applications in mechanical engineering problems.
 
