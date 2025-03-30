@@ -13,12 +13,21 @@ This repository contains MATLAB scripts and projects developed as part of the Nu
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [Contributing](#contributing)
+- [Technical Content](#technical-content)
 - [License](#license)
 - [Author](#author)
 - [Contact](#contact)
 
 ## Introduction
 This repository serves as a collection of MATLAB implementations for various numerical methods applied to solve problems in mechanical engineering. The projects aim to provide practical experience in applying theoretical concepts learned in the Numerical Analysis course.
+
+**Key application areas:**
+- Dynamic system modeling
+- Heat transfer analysis
+- Structural mechanics
+- Fluid dynamics
+- Mechanical vibrations
+- Optimization in design
 
 ## Course Objectives
 The primary objectives of this course and the corresponding projects are to:
@@ -33,14 +42,14 @@ The primary objectives of this course and the corresponding projects are to:
 ## Projects and Scripts
 Here is a brief overview of the projects included in this repository:
 -   **Project 1: Root Finding Methods**
-    -      Implementation of numerical methods for finding roots of equations (e.g., Bisection method, Newton-Raphson method).
-    -      Analysis of convergence and error estimation.
+    - Implementation of numerical methods for finding roots of equations (e.g., Bisection method, Newton-Raphson method).
+    - Analysis of convergence and error estimation.
 -   **Project 2: Numerical Integration**
-    -      Implementation of numerical integration techniques (e.g., Trapezoidal rule, Simpson's rule).
-    -      Application to calculate integrals related to mechanical engineering problems.
+    - Implementation of numerical integration techniques (e.g., Trapezoidal rule, Simpson's rule).
+    - Application to calculate integrals related to mechanical engineering problems.
 -   **Project 3: Solving Systems of Linear Equations**
-    -      Implementation of methods for solving linear systems (e.g., Gaussian elimination, LU decomposition).
-    -      Application to structural analysis or fluid dynamics problems.
+    - Implementation of methods for solving linear systems (e.g., Gaussian elimination, LU decomposition).
+    - Application to structural analysis or fluid dynamics problems.
 -   **Project 4: Curve Fitting and Interpolation**
     - Implementation of polynomial interpolation and least squares fitting.
     - Application to analyze experimental data.
@@ -119,6 +128,21 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 3.  Submit a pull request.
 
 Please ensure your code is well-documented and follows the existing coding style.
+
+## Technical Content
+
+### Core Topics Covered
+- **Matrix Operations** - Creation, manipulation, and analysis
+- **Numerical Methods** - Equation solving, optimization, root finding
+- **Ordinary Differential Equations** - Analytical and numerical solutions
+- **Data Analysis** - Statistical analysis of engineering data
+- **Visualization** - Professional plotting and result presentation
+
+### MATLAB Toolboxes Used
+- Symbolic Math Toolbox
+- Optimization Toolbox
+- ODE Solvers (ode45, ode23, etc.)
+- Simulink for system modeling
 
 ## License
 
